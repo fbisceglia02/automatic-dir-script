@@ -44,7 +44,7 @@ Questo tool legge un file di testo che descrive una struttura ad albero e genera
 2. Esegui lo script per generare la struttura:
 
    ```bash
-   python create_from_tree.py
+   python main.py
    ```
 3. La struttura verrà creata in base al `tree.txt`. Se non è presente una root, i file saranno creati nella cartella corrente.
 
